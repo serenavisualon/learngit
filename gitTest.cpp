@@ -7,4 +7,6 @@ void main()
     int j = 1;
     
     int m = i +j;
+    
+    print(m);
 }
