@@ -12,3 +12,7 @@ void main()
     
     add more infomation.
 }
+
+void function1(){
+    
+}
