@@ -14,5 +14,7 @@ void main()
 }
 
 void function1(){
-    
+    printf("push once");
 }
+
+learn to edit in branch.
