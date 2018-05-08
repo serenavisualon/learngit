@@ -19,4 +19,4 @@ void function1(){
 
 learn to edit in branch.
 
-create a new branch for feature1.
+create a new branches for/of feature1.
